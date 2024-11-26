@@ -61,7 +61,7 @@ Before setting up the project, ensure the following are installed on your system
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/bank-pipeline-api.git
+   git clone https://github.com/wiriane-cintia/bank-pipeline-api.git
    cd bank-pipeline-api
    ```
 
